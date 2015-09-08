@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bitbucket.UrlQueryBuilderSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-07-26T22:21:21" hostname="Thandos-MacBook-Pro-2.local" time="0.263">
+  <properties/>
+  <testcase name="Correct url is built" classname="com.bitbucket.UrlQueryBuilderSpec" time="0.263"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
